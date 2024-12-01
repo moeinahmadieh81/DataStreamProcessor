@@ -1,0 +1,5 @@
+requests~=2.32.3
+psycopg2-binary~=2.9.10
+confluent-kafka~=2.6.1
+minio~=7.2.12
+DateTime~=5.5
